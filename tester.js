@@ -1,0 +1,2 @@
+({"name":"Steve","informalSpecies":"Red Fox","species":"vulpes vulpes","genus":"vulpes","family":"canidae","weight":10,"color":"red","sound":"bark","extinct":false,"domesticated":true})<object>
+({"name":"Steve","informalSpecies":"Red Fox","species":"vulpes vulpes","genus":"vulpes","family":"canidae","weight":10,"color":"red","sound":"bark","extinct":false,"domesticated":true})<object>
